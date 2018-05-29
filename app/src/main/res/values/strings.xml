@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="back">Back</string>
+    <string name="bomb_striker">Bomb Striker</string>
+    <string name="button">Button</string>
+    <string name="skip">skip</string>
+    <string name="help">Help</string>
+    <string name="about_the_author">About the Author</string>
+    <string name="https_www_cs_sfu_ca_coursecentral_276_bfraser_index_html">https://www.cs.sfu.ca/CourseCentral/276/bfraser/index.html</string>
+    <string name="objective">Objective</string>
+    <string name="citations">Citations</string>
+    <string name="start_game">Start Game</string>
+    <string name="options">Options</string>
+    <string name="helpMain">Help</string>
+    <string name="optionsText">Options</string>
+    <string name="number_of_mines">Number Of Mines</string>
+    <string name="_6">6</string>
+    <string name="_10">10</string>
+    <string name="_15">15</string>
+    <string name="_20">20</string>
+    <string name="number_of_rows">Number of Rows:</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="number_of_columns">Number of Columns</string>
+    <string name="games_played">Games Played:</string>
+    <string name="_0">0</string>
+    <string name="best_score">Best Score:</string>
+    <string name="reset_statistics">Reset Statistics</string>
+    <string name="congratulations">Congratulations!</string>
+</resources>
